@@ -25,9 +25,13 @@ labels:
 ## What Makes a Smart Question?
 
 //Punctuated and formatted properly
+---
 //The issue/question was described clearly with context as to the kind of answer they're looking for
+---
 //Described a goal, understanding closures in java
+---
 //Indicated that they had done some research and provided their steps
+---
 [Smart Question Example](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work).
 
 ## conclusion
