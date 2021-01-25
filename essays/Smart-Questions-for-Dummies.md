@@ -19,6 +19,7 @@ labels:
 ## What Makes a Dumb Question?
 
 //Dumb because the question was already answered before and could have been reached with a little more research
+
 //Not punctuated correctly
 
 [Dumb Question Example](https://stackoverflow.com/questions/65878295/how-to-change-the-default-directory-for-linux-at-startup).
