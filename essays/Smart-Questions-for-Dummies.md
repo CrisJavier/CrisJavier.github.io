@@ -39,4 +39,6 @@ The issue is very clearly described with context as to the kind of answer they'r
 
 Unlike the "dumb" question, the "smart" question also received exemplary responses. 5,816 have bookmarked the thread. There are a total of 7,632 upvotes. 86 answers which make up at least 3 pages for any future thread viewers to go through to properly understand JavaScript closures. Not to mention the outstanding answers provided by every single person answering the question. The end result of this person asking his question as he did was a bunch of in-depth answers that he as well as any others struggling with a similar issue can look through to help resolve any problems they might have had with the concept. As such he's received very effective and efficient help.
 
-## conclusion
+## Help Yourself Before Asking Others
+
+Once again, I highly recommend ["How To Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html). It's very enlightening and helpful for anyone struggling with anything. If there's anything to takeaway from this it's to put as much time and effort in asking a question as you would expect someone to give when answering your question. Most of the time the amount of effort shown will be very obvious from your question and its presentation, but make sure to let any potential answerers know what you've done so far to help yourself. After all no one wants to put in any time or effort helping you if you're showing them that you clearly won't help yourself.
