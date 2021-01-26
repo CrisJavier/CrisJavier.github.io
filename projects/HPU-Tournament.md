@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/esports-2018-monitor-asus.jpg
+image: images/esports-2018-monitor.jpg
 title: 2019 HPU Scholarship Tournament
 permalink: projects/tournament
 # All dates must be YYYY-MM-DD format!
