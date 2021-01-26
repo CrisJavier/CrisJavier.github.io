@@ -31,14 +31,12 @@ I bring up this question as an example of a dumb question, not to simply rag on 
 
 ## What Makes a Smart Question?
 
-//Punctuated and formatted properly
+On the other hand, here's [an example of a relatively smart question](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work). It may not be the smartest question but it's got its points. Please keep in mind that the point of showcasing "dumb" and "smart" questions is to show that smart questions tend to get more effective and efficient help.
 
-//The issue/question was described clearly with context as to the kind of answer they're looking for
+Looking at this post, right off the bat we see that the question was formatted properly. Any breaks between paragraphs clearly indicate a different type of information that could be used as context. He even provided a link to what he's attempted to look through for understanding but has come up short on. This also shows that unlike the dumb question example, this user has told any potential answerers that he has tried to solve the issue himself and also included where exactly he's been in order to accomplish his end-goal.
 
-//Described a goal, understanding closures in java
+The issue is very clearly described with context as to the kind of answer they're looking for. Simply put, the way he's asked his question has made his end goal very clear: understand JavaScript closures. In addition, he's provided context as to where he's placed in terms of understanding of JavaScript closures so anyone who answered will have some sort of diving board to get started from. 
 
-//Indicated that they had done some research and provided their steps
-
-[Smart Question Example](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work).
+Unlike the "dumb" question, the "smart" question also received exemplary responses. 5,816 have bookmarked the thread. There are a total of 7,632 upvotes. 86 answers which make up at least 3 pages for any future thread viewers to go through to properly understand JavaScript closures. Not to mention the outstanding answers provided by every single person answering the question. The end result of this person asking his question as he did was a bunch of in-depth answers that he as well as any others struggling with a similar issue can look through to help resolve any problems they might have had with the concept. As such he's received very effective and efficient help.
 
 ## conclusion
