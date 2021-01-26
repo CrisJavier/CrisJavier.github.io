@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhmitc.jpg
+image: images/uhmits.jpg
 title: UH Information Technology Services
 permalink: projects/ITS
 # All dates must be YYYY-MM-DD format!
