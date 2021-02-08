@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-```
+```ruby
 var foo = 3;
 const car = "Toyota";
 const obj = {
