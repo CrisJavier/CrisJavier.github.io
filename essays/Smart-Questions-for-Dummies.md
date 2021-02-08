@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Smart Questions for Dummies
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-24
+date: 2021-01-24
 labels:
   - Smart Questions
   - Stack Exchange
