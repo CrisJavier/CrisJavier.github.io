@@ -11,7 +11,8 @@ labels:
 
 ```ruby
 /**
- * How many violations of the AirBnb Javascript Style guide can we pack into one file?
+ * How many violations of the AirBnb Javascript Style guide 
+ * can we pack into one file?
  * Created by Philip Johnson on 8/4/16.
  */
 
