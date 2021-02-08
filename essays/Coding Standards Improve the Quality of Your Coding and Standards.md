@@ -10,6 +10,11 @@ labels:
 ---
 
 ```ruby
+/**
+ * How many violations of the AirBnb Javascript Style guide can we pack into one file?
+ * Created by Philip Johnson on 8/4/16.
+ */
+
 var foo = 3;
 const car = "Toyota";
 const obj = {
