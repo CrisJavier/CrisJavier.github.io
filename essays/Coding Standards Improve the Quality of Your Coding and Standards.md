@@ -9,7 +9,8 @@ labels:
   - Software Engineering
 ---
 
-```var foo = 3;
+```
+var foo = 3;
 const car = "Toyota";
 const obj = {
   car: car,
@@ -41,4 +42,5 @@ class MyClass {
     return this.name;
   }
 }
-const TheTitle = 'The Title';```
+const TheTitle = 'The Title';
+```
