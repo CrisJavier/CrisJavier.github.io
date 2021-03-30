@@ -47,5 +47,7 @@ Can also register and set up profile to save classes or write reviews/ratings
 After implementing the basic functionality, here are ideas for more advanced features:
 
 1) Option for anonymity when posting reviews as a user
+
 2) Rating/Review system
+
 3) Class Submit System (users are able to submit a class they want to set up a page for)
