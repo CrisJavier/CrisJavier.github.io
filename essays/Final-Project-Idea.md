@@ -19,9 +19,13 @@ The solution: A class review platform that allows UH students to review and subm
 Some possible mockup pages include:
 
 1) Admin home page
+
 2) Landing page
+
 3) User home page
+
 4) Review page (Non-admin, no need to be logged in to view)
+
 5) Submit page (submit a review, must be logged in)
 
 ## Use case ideas
