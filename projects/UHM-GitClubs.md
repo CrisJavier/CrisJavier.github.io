@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/logoheader2.png
 title: UHM GitClubs
-permalink: projects/UHM-GitClubs
+permalink: projects/UHMGitClubs
 # All dates must be YYYY-MM-DD format!
 date: 2021-5-12
 labels:
