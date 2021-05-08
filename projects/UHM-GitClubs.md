@@ -14,7 +14,7 @@ summary: Four other classmates and I, in ICS 314, worked together to create a we
 ---
 
 <img class="ui medium right floated rounded image" src="../images/BrowseClubs.png">
-[UHM GitClubs](https://uhm-gitclubs.github.io) is an application for UH Manoa students that provides a centralized directory for Registered Independent Organizations at UH Manoa. Anyone can visit the website to just browse the directory of clubs. The directory includes a description of the club, a link to their website, and contact information. Users can log in and join a club from the directory.
+UHM GitClubs is an application for UH Manoa students that provides a centralized directory for Registered Independent Organizations at UH Manoa. Anyone can visit the website to just browse the directory of clubs. The directory includes a description of the club, a link to their website, and contact information. Users can log in and join a club from the directory.
 
 Current Features Include:
 
